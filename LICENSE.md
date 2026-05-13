@@ -1,4 +1,4 @@
-# 
+# custom sushiswap trading bot Module | yield-farming + MEV-strategies offers the most advanced sushiswap trading bot, with yield-farming and MEV-strategies. Ideal for professional
 
 
 
